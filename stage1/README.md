@@ -112,6 +112,7 @@ bus_id: 2
 stop_id: 1
 stop_name: 1
 next_stop: 1
-stop_type: 1</pre>
+stop_type: 1
+a_type: 2</pre>
 <p><br></p>
 
