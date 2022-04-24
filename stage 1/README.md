@@ -1,14 +1,8 @@
-# Easy-Rider-Bus-Company
-<h3>*1st stage of project*</h3>
-Description
-You just started sorting out the existing database of the "Easy Rider" bus company. 
-As you take the first look at the data, you realize that it's not going to be easy.
-
-Sometimes numbers are missing from where they should definitely be. You also noticed 
-that sometimes there are too many or too few characters. Fortunately, there is 
-documentation to help you sort out this mess. However, this documentation is not a 
-hundred percent complete: part of it was torn away when your colleague spilled coffee 
-on it. Let's see what we can make out.
+<h1>Stage 1/6: Checking the data type</h1>
+<h5>Description</h5>
+<p>You just started sorting out the existing database of the &quot;Easy Rider&quot; bus company. As you take the first look at the data, you realize that it&apos;s not going to be easy.</p>
+<p>Sometimes numbers are missing from where they should definitely be. You also noticed that sometimes there are too many or too few characters. Fortunately, there is documentation to help you sort out this mess. However, this documentation is not a hundred percent complete: part of it was torn away when your colleague spilled coffee on it. Let&apos;s see what we can make out.</p>
+<p>Here are the documents that you have:&nbsp;<a href="https://stepik.org/media/attachments/lesson/412967/Documentation.jpg" rel="noopener noreferrer nofollow" target="_blank">documentation<img src="http://localhost:63342/eduResources/icons/com/jetbrains/edu/learning/external_link_arrow@2x_dark.png" border="0" width="14" height="14"></a> and&nbsp;<a href="https://stepik.org/media/attachments/lesson/412967/Diagram_of_the_bus_line.jpg" rel="noopener noreferrer nofollow" target="_blank">diagram of the bus lines<img src="http://localhost:63342/eduResources/icons/com/jetbrains/edu/learning/external_link_arrow@2x_dark.png" border="0" width="14" height="14"></a>.</p>
 <h5>Objectives</h5>
 <ol>
     <li>The string containing the data in JSON format is passed to standard input.</li>
@@ -113,6 +107,5 @@ stop_id: 1
 stop_name: 1
 next_stop: 1
 stop_type: 1
-a_type: 2</pre>
+a_time: 2</pre>
 <p><br></p>
-
