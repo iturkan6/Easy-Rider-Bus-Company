@@ -11,10 +11,6 @@ def take_info():
     [print(k, ": ", v, sep="") for k, v in errors.items()]
 
 
-def dict_data(dictionary: dict, key: str):
-    return type(dictionary[key])
-
-
 if __name__ == "__main__":
     stop_types = ("S", "O", "F")
     validator = {
